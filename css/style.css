@@ -64,20 +64,19 @@
 }
 
 .cabecalho{
-    background-color: #333;
+    background-color: #5b05fd;
     color: #fff;
-    padding: 10px;
-    text-align: center;
-    background-image:url("../img/exemplo-banner-1280x568.png") ;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
+   
 
 }
 
 
 .menu ul li {
-    display: inline;
-    margin-right: 10px;
-    background-color: #fff;
+  
+    color: black;
+}
+
+.menu ul li a {
+  
+    color: white;
 }
