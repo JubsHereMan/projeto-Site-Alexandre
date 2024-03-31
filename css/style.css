@@ -88,10 +88,21 @@ h1{
 }
 
 
-.form{
-    border: solid 1px;
+form{
+    border: solid 1px gray;
+    padding: 10px;
+
+}
+
+button{
+    color: #ffffff;
+    background-color: #5b05fd;
 }
 
 p{
     color: green;
+}
+
+footer{
+    border-top: 2px solid red;
 }
