@@ -73,6 +73,9 @@ h1{
 
 }
 
+#id{
+    padding-bottom: 1.5;
+}
 
 .menu ul li {
   
@@ -82,4 +85,13 @@ h1{
 .menu ul li a {
   
     color: black    ;
+}
+
+
+.form{
+    border: solid 1px;
+}
+
+p{
+    color: green;
 }
