@@ -57,22 +57,29 @@
 } */ 
 
 
+
 h1{
     font-family: 'Times New Roman', Times, serif;
 }
 
 #container{
-    background-color: #ccc;
     margin: 20px;
 }
 
 .cabecalho{
     background-color: #5b05fd;
     color: #fff;
-   
+    
 
 }
 
+
+
+
+
+section{
+    line-height: 1.5
+}
 #id{
     padding-bottom: 1.5;
 }
@@ -104,5 +111,12 @@ p{
 }
 
 footer{
+    padding-top: 1px;
     border-top: 2px solid red;
+  
+}
+
+footer p {
+    color: black;
+    text-align: center;
 }
